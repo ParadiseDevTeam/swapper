@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "me.prdis"
-version = "0.0.1"
+version = "1.0.0"
 val codeName = "swapper"
 
 repositories {
